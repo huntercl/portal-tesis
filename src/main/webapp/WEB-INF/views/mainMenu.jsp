@@ -16,5 +16,6 @@
   <li><a href="${ctx}/order"><spring:message code="menu.saleOrderList.name"/></a></li>
 </ul>
 
+
 </body>
 </html>
